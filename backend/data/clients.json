@@ -1,3 +1,16 @@
 [
-  { "id": "client_demo1", "name": "Acme Logistics", "contactNumber": "+503 2222 1111", "address": "Santa Ana, El Salvador", "createdAt": "2026-07-04T00:00:00.000Z" }
+  {
+    "id": "client_demo1",
+    "name": "Acme Logistics",
+    "contactNumber": "+503 2222 1111",
+    "address": "Santa Ana, El Salvador",
+    "createdAt": "2026-07-04T00:00:00.000Z"
+  },
+  {
+    "id": "hCf2-w17Ek",
+    "createdAt": "2026-07-04T20:35:22.474Z",
+    "name": "Trucking Company 2",
+    "contactNumber": "+503 6676 8787",
+    "address": "San Miguel, El Salvador"
+  }
 ]

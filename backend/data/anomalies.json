@@ -1,1 +1,354 @@
-[]
+[
+  {
+    "id": "DLrkC3EAzU",
+    "createdAt": "2026-07-04T19:41:55.347Z",
+    "clientId": "client_demo1",
+    "tripId": "HbycvX88Xm",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T19:46:55.345Z",
+    "details": {
+      "kmOffRoute": 1.76
+    }
+  },
+  {
+    "id": "iUr3bIzXKg",
+    "createdAt": "2026-07-04T19:42:07.683Z",
+    "clientId": "client_demo1",
+    "tripId": "HbycvX88Xm",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T19:56:07.681Z",
+    "details": {
+      "kmOffRoute": 1.87
+    }
+  },
+  {
+    "id": "w1OQ5rkJIm",
+    "createdAt": "2026-07-04T19:42:09.059Z",
+    "clientId": "client_demo1",
+    "tripId": "HbycvX88Xm",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T19:57:09.056Z",
+    "details": {
+      "kmOffRoute": 2.5
+    }
+  },
+  {
+    "id": "OEWND4-3T3",
+    "createdAt": "2026-07-04T19:42:10.431Z",
+    "clientId": "client_demo1",
+    "tripId": "HbycvX88Xm",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T19:58:10.429Z",
+    "details": {
+      "kmOffRoute": 3.12
+    }
+  },
+  {
+    "id": "DIh8hABBYh",
+    "createdAt": "2026-07-04T19:42:11.801Z",
+    "clientId": "client_demo1",
+    "tripId": "HbycvX88Xm",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T19:59:11.799Z",
+    "details": {
+      "kmOffRoute": 2.5
+    }
+  },
+  {
+    "id": "95AYteJ0sc",
+    "createdAt": "2026-07-04T19:42:13.183Z",
+    "clientId": "client_demo1",
+    "tripId": "HbycvX88Xm",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:00:13.181Z",
+    "details": {
+      "kmOffRoute": 1.87
+    }
+  },
+  {
+    "id": "SBAYELXCTj",
+    "createdAt": "2026-07-04T20:04:21.446Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:06:21.443Z",
+    "details": {
+      "kmOffRoute": 1.56
+    }
+  },
+  {
+    "id": "3Sg_RMq_28",
+    "createdAt": "2026-07-04T20:04:27.401Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:07:27.399Z",
+    "details": {
+      "kmOffRoute": 2.34
+    }
+  },
+  {
+    "id": "2Vn_OcCi-u",
+    "createdAt": "2026-07-04T20:04:33.168Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:08:33.162Z",
+    "details": {
+      "kmOffRoute": 3.11
+    }
+  },
+  {
+    "id": "0PeAqSfM0p",
+    "createdAt": "2026-07-04T20:04:38.896Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:09:38.893Z",
+    "details": {
+      "speedKmh": 210
+    }
+  },
+  {
+    "id": "eXDpuSvKGb",
+    "createdAt": "2026-07-04T20:04:55.559Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:12:55.556Z",
+    "details": {
+      "speedKmh": 131
+    }
+  },
+  {
+    "id": "POfoErDdqm",
+    "createdAt": "2026-07-04T20:04:55.858Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:12:55.556Z",
+    "details": {
+      "kmOffRoute": 1.56
+    }
+  },
+  {
+    "id": "e0QW2oPNvk",
+    "createdAt": "2026-07-04T20:07:55.686Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:09:55.682Z",
+    "details": {
+      "kmOffRoute": 1.56
+    }
+  },
+  {
+    "id": "vcdznErODr",
+    "createdAt": "2026-07-04T20:08:01.730Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:11:01.725Z",
+    "details": {
+      "kmOffRoute": 2.34
+    }
+  },
+  {
+    "id": "v5CX9EaPOK",
+    "createdAt": "2026-07-04T20:08:07.535Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:12:07.459Z",
+    "details": {
+      "kmOffRoute": 3.11
+    }
+  },
+  {
+    "id": "jcmZlXL7v_",
+    "createdAt": "2026-07-04T20:08:13.345Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:13:13.343Z",
+    "details": {
+      "speedKmh": 210
+    }
+  },
+  {
+    "id": "T4K9IYsNix",
+    "createdAt": "2026-07-04T20:08:29.973Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:16:29.971Z",
+    "details": {
+      "speedKmh": 131
+    }
+  },
+  {
+    "id": "IDXhy3s85c",
+    "createdAt": "2026-07-04T20:08:30.212Z",
+    "clientId": "client_demo1",
+    "tripId": "k7bWLqOk7J",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:16:29.971Z",
+    "details": {
+      "kmOffRoute": 1.56
+    }
+  },
+  {
+    "id": "Chm7lpgcCn",
+    "createdAt": "2026-07-04T20:10:05.683Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:13:05.681Z",
+    "details": {
+      "kmOffRoute": 2.12
+    }
+  },
+  {
+    "id": "EECp4YUrQ_",
+    "createdAt": "2026-07-04T20:10:11.419Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:14:11.412Z",
+    "details": {
+      "kmOffRoute": 2.82
+    }
+  },
+  {
+    "id": "WlyQLLD80r",
+    "createdAt": "2026-07-04T20:10:17.130Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:15:17.126Z",
+    "details": {
+      "speedKmh": 199
+    }
+  },
+  {
+    "id": "9g9BicULQ7",
+    "createdAt": "2026-07-04T20:10:17.375Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:15:17.126Z",
+    "details": {
+      "kmOffRoute": 2.55
+    }
+  },
+  {
+    "id": "ZOZIq68NbG",
+    "createdAt": "2026-07-04T20:10:22.954Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:16:22.952Z",
+    "details": {
+      "kmOffRoute": 2.27
+    }
+  },
+  {
+    "id": "J_3K1-gIgy",
+    "createdAt": "2026-07-04T20:10:28.660Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:17:28.658Z",
+    "details": {
+      "kmOffRoute": 2.18
+    }
+  },
+  {
+    "id": "d53RWc_Twc",
+    "createdAt": "2026-07-04T20:10:34.381Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:18:34.377Z",
+    "details": {
+      "speedKmh": 145
+    }
+  },
+  {
+    "id": "JqsMfbFbJo",
+    "createdAt": "2026-07-04T20:27:23.506Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:30:23.501Z",
+    "details": {
+      "kmOffRoute": 2.12
+    }
+  },
+  {
+    "id": "mXbZ14EGvM",
+    "createdAt": "2026-07-04T20:27:30.078Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:31:30.073Z",
+    "details": {
+      "kmOffRoute": 2.82
+    }
+  },
+  {
+    "id": "ZXa8GGSzP0",
+    "createdAt": "2026-07-04T20:27:36.796Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:32:36.789Z",
+    "details": {
+      "speedKmh": 196
+    }
+  },
+  {
+    "id": "hEnhasaCWB",
+    "createdAt": "2026-07-04T20:27:37.810Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:32:36.789Z",
+    "details": {
+      "kmOffRoute": 2.55
+    }
+  },
+  {
+    "id": "jmBXqXoDUf",
+    "createdAt": "2026-07-04T20:27:43.944Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:33:43.940Z",
+    "details": {
+      "kmOffRoute": 2.27
+    }
+  },
+  {
+    "id": "JVNHWCTzwg",
+    "createdAt": "2026-07-04T20:27:50.610Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "unauthorized_detour",
+    "detectedAt": "2026-07-04T20:34:50.605Z",
+    "details": {
+      "kmOffRoute": 2.18
+    }
+  },
+  {
+    "id": "ynRw4YZsyc",
+    "createdAt": "2026-07-04T20:27:57.037Z",
+    "clientId": "client_demo1",
+    "tripId": "FkHhYSMZ7h",
+    "type": "speeding",
+    "detectedAt": "2026-07-04T20:35:57.032Z",
+    "details": {
+      "speedKmh": 143
+    }
+  }
+]

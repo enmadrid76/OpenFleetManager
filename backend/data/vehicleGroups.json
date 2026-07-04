@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "v3CKWJPNtC",
+    "createdAt": "2026-07-04T20:42:50.984Z",
+    "clientId": "client_demo1",
+    "name": "Fleet Occidente",
+    "description": "Fleet Occidente",
+    "updatedAt": "2026-07-04T20:43:28.578Z"
+  },
+  {
+    "id": "4olT9jDxUL",
+    "createdAt": "2026-07-04T20:43:15.569Z",
+    "clientId": "client_demo1",
+    "name": "Fleet Oriente",
+    "description": "Fleet Oriente"
+  }
+]

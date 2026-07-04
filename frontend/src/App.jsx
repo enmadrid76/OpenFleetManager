@@ -1,6 +1,7 @@
 import { Routes, Route, NavLink } from 'react-router-dom';
 import Dashboard from './pages/Dashboard.jsx';
 import Clients from './pages/Clients.jsx';
+import Fleet from './pages/Fleet.jsx';
 import Vehicles from './pages/Vehicles.jsx';
 import Drivers from './pages/Drivers.jsx';
 import Trips from './pages/Trips.jsx';
@@ -10,6 +11,7 @@ import DriverApp from './pages/DriverApp.jsx';
 const navItems = [
   { to: '/', label: 'Dispatch' },
   { to: '/clients', label: 'Clients' },
+  { to: '/fleet', label: 'Fleet' },
   { to: '/vehicles', label: 'Vehicles' },
   { to: '/drivers', label: 'Drivers' },
   { to: '/trips', label: 'Trips' },
@@ -41,6 +43,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/clients" element={<Clients />} />
+          <Route path="/fleet" element={<Fleet />} />
           <Route path="/vehicles" element={<Vehicles />} />
           <Route path="/drivers" element={<Drivers />} />
           <Route path="/trips" element={<Trips />} />
