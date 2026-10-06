@@ -2,6 +2,8 @@
 
 Multi-tenant fleet management MVP: clients, vehicles, drivers, trips, real-time GPS tracking, anomaly detection, ElevenLabs voice guidance, and reporting.
 
+This project will be edited using T3 Code going forward.
+
 See [requirements.md](./requirements.md) for the full spec.
 
 ## Structure
